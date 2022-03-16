@@ -63,6 +63,7 @@ class TaskHolder:
 
     def display_tasks(self):
         count = 1
+
         for task in self.daily_tasks:
             print(count, task.completed, ' - ', task)
             count += 1
@@ -86,6 +87,7 @@ def start_up(user_defaults):
         todays_tasks = load_tasks()
         user_defaults['today'] = todays_tasks.gather_daily_task_data()
         user_defaults['date'] = f"{date.strftime('%Y')}-{date.strftime('%m')}-{date.strftime('%d')}"
+        user_defaults['total'] = 0
         return todays_tasks
 
 
@@ -131,6 +133,7 @@ def main():
     # Check store
     data = UserDefaults()
     task_holder = start_up(data)
+    print('Total', data['total'])
     task_holder.display_tasks()
 
     user_input = None

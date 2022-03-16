@@ -1,28 +1,36 @@
 {
     "daily": [
         {
-            "title": "WW Points"
+            "title": "WW Points",
+            "completed": false
         },
         {
-            "title": "Text After Meal"
+            "title": "Text After Meal",
+            "completed": false
         },
         {
-            "title": "45 Minutes Exercise"
+            "title": "45 Minutes Exercise",
+            "completed": false
         },
         {
-            "title": "No Processed Carb Snacks"
+            "title": "No Processed Carb Snacks",
+            "completed": false
         },
         {
-            "title": "Read 10 Minutes Per Day"
+            "title": "Read 10 Minutes Per Day",
+            "completed": false
         },
         {
-            "title": "Only Water To Drink"
+            "title": "Only Water To Drink",
+            "completed": false
         },
         {
-            "title": "Read Scriptures"
+            "title": "Read Scriptures",
+            "completed": false
         },
         {
-            "title": "Morning And Evening Prayer"
+            "title": "Morning And Evening Prayer",
+            "completed": false
         }
     ],
     "weekly": [],

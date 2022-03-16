@@ -3,28 +3,28 @@
         {
             "title": "WW Points",
             "description": "",
-            "completed": true,
+            "completed": false,
             "id": null,
             "notification": null
         },
         {
             "title": "Text After Meal",
             "description": "",
-            "completed": true,
+            "completed": false,
             "id": null,
             "notification": null
         },
         {
             "title": "45 Minutes Exercise",
             "description": "",
-            "completed": true,
+            "completed": false,
             "id": null,
             "notification": null
         },
         {
             "title": "No Processed Carb Snacks",
             "description": "",
-            "completed": true,
+            "completed": false,
             "id": null,
             "notification": null
         },
@@ -57,5 +57,64 @@
             "notification": null
         }
     ],
-    "date": "2022-03-15"
+    "date": "2022-03-15",
+    "total": 1,
+    "yesterday": [
+        {
+            "title": "WW Points",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "Text After Meal",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "45 Minutes Exercise",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "No Processed Carb Snacks",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "Read 10 Minutes Per Day",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "Only Water To Drink",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "Read Scriptures",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        },
+        {
+            "title": "Morning And Evening Prayer",
+            "description": "",
+            "completed": true,
+            "id": null,
+            "notification": null
+        }
+    ]
 }
